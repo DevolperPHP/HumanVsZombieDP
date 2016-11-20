@@ -1,0 +1,10 @@
+---
+name: HumanVsZombieDP
+author: JUZEXMOD
+main: HumanVsZombieDP\Main
+version: 1.0
+api: [2.0.0]
+
+commands:
+  hvz:
+    descripiton: Human Vs Zombie Plugin
